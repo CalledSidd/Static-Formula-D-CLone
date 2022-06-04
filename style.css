@@ -1,0 +1,447 @@
+*{
+    margin: 0;
+   padding: 0; 
+}
+body{
+  background-color: black; 
+}
+.navbar1{
+    background-color: rgb(6, 6, 6);
+    display: flex;
+    height: 30px;
+       
+}
+.sbs{
+    width: 90px;
+    padding-left: 150px;
+    
+}
+.fb{
+    width: 130px;
+   
+}
+.pro{
+    color: white;
+    margin-left: 200px;
+    justify-content: space-between; 
+}
+.pro li{
+    padding-left: 20px;
+    padding-bottom: 30px;
+    display: inline-block;
+    list-style: none;
+    font-size: 17px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.pro li:hover{
+    color: red;
+    background-color: white;
+    cursor: pointer;
+}
+.about{
+    color: whitesmoke;
+    padding-left: 120px;
+    list-style: none;
+    padding-left: 420px;
+}
+.about li{
+    display: inline-block;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+.about li:hover{
+    color: red;
+    background-color: white;
+}
+.bal{
+    width: 1231px;
+    margin-left: 132px;
+    display: flex;
+}
+.main{
+    background-color:rgb(255, 253, 253);
+    color: rgb(255, 237, 237);
+    display: flex;
+    width: 100%;
+
+}
+.list{
+    background-color: white;
+    display: flex;
+    padding-right: 128px;
+    align-items: center;
+    justify-content: revert;
+    padding-left: 161px;
+
+}
+#btn1{
+    background-color:white;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-left: 20px;
+    size: 20px;
+    border: none;
+}
+#btn1:hover{
+    background-color: red;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+.list ul{
+    display: flex;
+    background-color: white;
+    color: white;
+    list-style: none;
+}
+.list li{
+    justify-content: space-between;
+}
+.play{
+    
+    list-style: none;
+    padding-left: 600px;
+    display:flex  
+}
+.logo{
+    width: 189px;
+    margin-top: -6px;
+    margin-left: 93px;
+  
+}
+.logo ul{
+    display: flex;
+    margin-left: 700px;
+    list-style: none;  
+}
+li:hover{
+    color:white;
+    background-color: rgb(6, 6, 6);
+}
+.logo li{
+    width: 300px;
+   height: 30px;  
+}
+#b1{
+    color: rgb(0, 0, 0);
+    background-color: red;
+}
+.mainimage{
+    width: 100%;
+    height: 38vw;
+    background-color: black;
+}
+.mainimage img{
+    padding-left: 290px;
+    height: 76vh;
+}
+.sponsors{
+    background-color: red;
+    width: 100%;
+    height: 90px;
+    display: flex;
+}
+.mainpage{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 30vw;
+}
+.news{
+    background-color: rgb(0, 0, 0);
+    width: 60%;
+    height: 30vw;
+}
+.hughes{
+    background-color: rgb(0, 0, 0);
+}
+.hughes p{
+color: white;
+    background-color: black;
+    font-size: 24px;
+    
+}
+.hughes img{
+    padding-left: 60px;
+  width: 600px;
+  height: 360px;
+}
+
+.textfd{
+    font-size: 35px;
+    align-self: center;
+    margin-left: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-style: italic;
+    text-align:justify ;
+}
+.sections{
+    color: white;
+    margin-top: 120px;
+    margin-right: 320px;
+}
+.sections button{
+   padding: 12px;
+    background-color: black;
+    color: white;
+    border: 3;
+    border-color: grey;
+
+}
+.prostand{
+    background-color: black;
+    width: 100%;
+    height: 92vh;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-style: italic;
+}
+.aasbo{
+    padding-left: 150px;
+}
+.matt{
+    padding-left: 150px;
+}
+.chris{
+    padding-left: 0px;
+}
+.supra img{
+    width: 270px;
+    margin-left: 420px;
+    margin-top: -170px;
+}
+.corvette{
+    width: 300px;
+    margin-left: 420px;
+    margin-top: -170px;
+}
+.z{
+    width: 20px;
+    height: 20px;
+    margin-left: 420px;
+    margin-top: -170px;  
+}
+.morenews{
+    width: 80%;
+    margin-left: 150px;
+    height: 60vh;
+    background-color: white;
+    display: flex;
+}
+.bmw{
+    width: 500px;
+}
+.engine{
+    width: 460px;  
+}
+.extra{
+    width: 320px;
+}
+.bmw img{
+    width: 368px;
+    padding-left: 30px;
+}
+.main{
+    color: black;
+ text-align: start;
+ font-style: bold;
+ font-weight: bolder;
+ font-size: 19px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.engine img{
+    width: 360px;
+    height: 200px;
+    padding-top: 0px;
+}
+.eng{
+    text-align: left;
+ font-style: bold;
+ font-weight: bolder;
+ font-size: 20px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.scoreboard{
+    padding-left: 140px;
+}
+.imageasbo{
+    width: 220px;
+}
+.imageasbo p{
+    font-style: bold;
+ font-weight: bolder;
+ font-size: 20px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mustangdrifting{
+    width: 220px;
+}
+.p1{
+    font-style: bold;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bmw:hover{
+ text-decoration: underline;
+}
+.eng:hover{
+    text-decoration: underline;  
+}
+.extra:hover{
+    text-decoration: underline;
+}
+.end{
+    margin-top: 50px;
+    width: 100%;
+    height: 70vh;
+    background-color:black;
+}
+.footerlogo{
+    margin-bottom: 120px;
+    width: 100%;
+    height: 12vh;
+    background-color: rgb(0, 0, 0);
+}
+.border{
+    background-color: black;
+    border: 20px;
+    border-color: black;
+}
+.footlogo{
+    width: 270px;
+    height: 50px;
+    padding-left: 210px;
+    padding-top:70px ;
+}
+.tiktok{
+    padding-left: 20px;
+    width: 20px;
+}
+.fb{
+    padding-left: 20px;
+    width: 20px;
+}
+.twtr{
+    padding-left: 20px;
+    width: 20px;
+}
+.insta{
+    padding-left: 20px;
+    width: 20px;
+}
+.yt{
+    padding-left: 20px;
+    width: 20px;
+}
+.snap{
+    padding-left: 20px;
+    width: 20px;
+}
+.conct{
+    display: inline-block;
+    padding-left: 650px;
+    justify-content: space-between;
+}
+.footfoot{
+    width: 80%;
+    height: 30vh;
+    margin:0 auto;
+    display: flex;
+    font-family: Roboto;
+    font-size: 14px;
+    line-height: 21px;
+}
+.footfoot ul{
+    list-style: none;
+}
+.siteinfo{
+    height: 100%;
+    width: 180px;
+    text-align: center;
+    color: #ffffff;
+    list-style: none;
+}
+#SI{
+    font-size: 20px;
+color: #6c757d;
+}
+.siteinfo li{
+    padding: 10px;
+}
+.multimedia{
+    height: 100%;
+    width: 180px;
+    text-align: center;
+    color: #ffffff;
+    list-style: none;
+}
+.schedule{
+    height: 100%;
+    width: 180px;
+    text-align: center;
+    color: #ffffff;
+    list-style: none;
+}
+.contact{
+    height: 100%;
+    height: 100%;
+    width: 180px;
+    text-align: center;
+    color: #ffffff;
+    list-style: none;
+
+}
+.fans{
+    height: 100%;
+    height: 100%;
+    width: 180px;
+    text-align: center;
+    color: #ffffff;
+    list-style: none; 
+}
+.competitors{
+    height: 100%;
+    height: 100%;
+    width: 180px;
+    text-align: center;
+    color: #ffffff;
+    list-style: none;  
+}
+.multimedia li{
+    padding: 10px;  
+}
+#Multi{
+    font-size: 20px;
+    color: #6c757d;  
+}
+.schedule li{
+    padding: 10px;  
+}
+#Schedule{
+    font-size: 20px;
+    color: #6c757d;  
+}
+.contact li{
+    padding: 10px;
+}
+#C{
+    font-size: 20px;
+    color: #6c757d;  
+}
+.fans li{
+    padding: 10px;
+}
+#Fans{
+    font-size: 20px;
+    color: #6c757d;  
+}
+.competitors li{
+    padding: 10px;
+}
+#Competitors{
+    font-size: 20px;
+    color: #6c757d;   
+}
